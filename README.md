@@ -37,11 +37,11 @@
 
   <section id="contact">
     <h2>Contact Me</h2>
-    <p>Feel free to reach out via email: <a href="mailto:202280178@psu.palawan.edu.ph">your-email@example.com</a></p>
+    <p>Feel free to reach out via email: <a href="mailto:202280178@psu.palawan.edu.ph">202280178@psu.palawan.edu.ph</a></p>
   </section>
 
   <footer>
-    <p>© 2025 [Your Name]. All Rights Reserved.</p>
+    <p>© 2025 [CMGNOV12]. All Rights Reserved.</p>
   </footer>
 </body>
 </html>
